@@ -2,7 +2,6 @@ class test
 {
 public static void main (String args[])
 {
-System.out.println("Test Message");
+System.out.println("Test Message from Feature new");
 }
 }
-
